@@ -1,2 +1,2 @@
-# bar_chart_race
-simple bar chart race
+# Bar Chart Race
+simple bar chart race with datetime
